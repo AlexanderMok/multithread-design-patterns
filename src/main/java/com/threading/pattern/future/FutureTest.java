@@ -1,6 +1,7 @@
 package com.threading.pattern.future;
 
 /**
+ * Future/Promise pattern
  * @author Alex
  * @since 2019/08/02
  */
